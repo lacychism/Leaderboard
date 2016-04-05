@@ -1,0 +1,7 @@
+live nfl team codes xml http://www.fantasyfootballnerd.com/service/nfl-teams/xml/yhnkisjxcbsm/
+
+live nfl team codes json http://www.fantasyfootballnerd.com/service/nfl-teams/json/yhnkisjxcbsm/
+
+live nfl schedule xml http://www.fantasyfootballnerd.com/service/schedule/xml/yhnkisjxcbsm/
+
+live nfl schedule json http://www.fantasyfootballnerd.com/service/schedule/json/yhnkisjxcbsm/
