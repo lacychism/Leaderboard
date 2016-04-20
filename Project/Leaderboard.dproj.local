@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/17 16:46:51.000.792,=C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/04/17 16:47:09.000.304,C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\Leaderboard.dproj=C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2016/04/17 16:48:01.000.293,C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\main.fmx=C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2016/04/17 16:48:01.000.293,C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\main.pas=C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/04/17 16:48:50.000.498,=C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/04/17 16:49:12.000.880,C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\selectpick.pas=C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/04/17 19:16:12.000.570,C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\Leaderboard.dproj=C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\Leaderboard.dproj</Transaction>
+    <Transaction>2016/04/20 11:59:21.823,Z:\projects\Leaderboard\Project\Leaderboard.dproj=C:\Users\Justin Frasier\Documents\Embarcadero\Studio\Projects\Leaderboard.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="8791645c"/>
+	</ActiveMobileDevice>
+</BorlandProject>
