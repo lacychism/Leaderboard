@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/23 22:38:27.000.621,=emsserverapi.dcp</Transaction>
+    <Transaction>2016/04/23 22:38:31.000.015,=C:\Users\michelle\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/24 10:40:00.054,=emsserverapi.dcp</Transaction>
+    <Transaction>2016/04/24 10:40:00.248,=C:\Users\michelle\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/24 10:47:17.659,C:\demos\XE8\EMS\EmailChecker\uEmailCheckerRes.pas=C:\Users\michelle\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/24 10:47:17.659,C:\demos\XE8\EMS\EmailChecker\uEmailCheckerRes.dfm=C:\Users\michelle\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/04/24 10:47:46.746,C:\demos\XE8\EMS\EmailChecker\EmailChecker.dproj=C:\Users\michelle\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/04/24 10:48:43.813,=C:\demos\XE8\EMS\EmailChecker\RegExpressionsUtil.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/23 22:38:27.000.621,=emsserverapi.dcp</Transaction>
+    <Transaction>2016/04/23 22:38:31.000.015,=C:\Users\michelle\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/24 10:55:39.842,=C:\Users\michelle\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/24 10:56:48.625,C:\demos\XE8\EMS\EmailChecker\uFormClient.fmx=C:\Users\michelle\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2016/04/24 10:56:48.625,C:\demos\XE8\EMS\EmailChecker\uFormClient.pas=C:\Users\michelle\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/24 10:57:09.627,C:\demos\XE8\EMS\EmailChecker\EmailCheckerApp.dproj=C:\Users\michelle\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/04/24 11:07:22.479,=C:\demos\XE8\EMS\EmailChecker\Unit1.pas</Transaction>
+    <Transaction>2016/04/24 11:08:54.630,C:\demos\XE8\EMS\EmailChecker\uDMEmailChecker.pas=C:\demos\XE8\EMS\EmailChecker\Unit1.pas</Transaction>
+    <Transaction>2016/04/24 11:08:54.630,C:\demos\XE8\EMS\EmailChecker\uDMEmailChecker.dfm=C:\demos\XE8\EMS\EmailChecker\Unit1.dfm</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>

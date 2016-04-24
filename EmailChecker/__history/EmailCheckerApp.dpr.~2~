@@ -1,0 +1,16 @@
+program EmailCheckerApp;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  uFormClient in 'uFormClient.pas' {FormClient},
+  uDMEmailChecker in 'uDMEmailChecker.pas' {DataModule1: TDataModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TFormClient, FormClient);
+  Application.CreateForm(TDataModule1, DataModule1);
+  Application.Run;
+end.
