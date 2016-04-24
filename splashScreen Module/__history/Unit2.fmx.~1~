@@ -1,0 +1,50 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object LabelTitle: TLabel
+    StyledSettings = []
+    Position.X = 56.000000000000000000
+    Position.Y = 32.000000000000000000
+    Size.Width = 145.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'calendarlabelstyle'
+    TextSettings.Font.Family = '@DengXian'
+    TextSettings.Font.Size = 28.000000000000000000
+    TextSettings.Font.Style = [fsBold]
+    TextSettings.FontColor = claTeal
+    Text = 'Welcome!!'
+  end
+  object Button1: TButton
+    StyledSettings = []
+    Position.X = 272.000000000000000000
+    Position.Y = 160.000000000000000000
+    Size.Width = 105.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Click Me!'
+    TextSettings.Font.Family = '@DengXian'
+    TextSettings.Font.Size = 22.000000000000000000
+    TextSettings.Font.Style = [fsBold, fsItalic]
+    TextSettings.FontColor = claTeal
+    OnClick = Button1Click
+  end
+  object Label1: TLabel
+    StyledSettings = [Family, Size, Style]
+    Position.X = 176.000000000000000000
+    Position.Y = 304.000000000000000000
+    Size.Width = 281.000000000000000000
+    Size.Height = 23.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.FontColor = claPurple
+    Text = 'This should be the login screen...'
+  end
+end
