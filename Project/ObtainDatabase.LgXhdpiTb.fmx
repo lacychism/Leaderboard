@@ -1,0 +1,15 @@
+inherited Form1_LgXhdpiTb: TForm1_LgXhdpiTb
+  ClientHeight = 829
+  ClientWidth = 480
+  DesignerMasterStyle = 3
+  inherited Button1: TButton
+    Position.Y = 760.000000000000000000
+    Size.Width = 330.000000000000000000
+  end
+  inherited Memo1: TMemo
+    Size.Width = 440.000000000000000000
+    Size.Height = 665.000000000000000000
+    Viewport.Width = 432.000000000000000000
+    Viewport.Height = 657.000000000000000000
+  end
+end
