@@ -1,0 +1,10 @@
+inherited Form1_Windows: TForm1_Windows
+  DesignerMasterStyle = 3
+  inherited Button1: TButton
+    OnClick = Button1Click
+  end
+  inherited Memo1: TMemo
+    Viewport.Width = 596.000000000000000000
+    Viewport.Height = 253.000000000000000000
+  end
+end

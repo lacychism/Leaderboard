@@ -39,12 +39,4 @@ object Form1: TForm1
     Viewport.Width = 592.000000000000000000
     Viewport.Height = 249.000000000000000000
   end
-  object ScheduleXML: TXMLDocument
-    Left = 24
-    Top = 96
-  end
-  object TeamCodeXML: TXMLDocument
-    Left = 24
-    Top = 32
-  end
 end
