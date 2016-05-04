@@ -1,0 +1,9 @@
+inherited Form1_LgXhdpiTb: TForm1_LgXhdpiTb
+  ClientHeight = 829
+  ClientWidth = 480
+  DesignerMasterStyle = 3
+  inherited AniIndicator1: TAniIndicator
+    Position.X = 208.000000000000000000
+    Position.Y = 432.000000000000000000
+  end
+end

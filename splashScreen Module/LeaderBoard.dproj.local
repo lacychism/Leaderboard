@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/20 11:00:11.000.113,=C:\Users\melde_000\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/04/22 17:32:35.000.454,=C:\Users\melde_000\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/04/22 17:40:29.000.788,C:\Users\melde_000\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\melde_000\Documents\Embarcadero\Studio\Projects\ShowSplashscreenLeaderboard.dproj</Transaction>
+    <Transaction>2016/04/22 17:50:26.000.885,C:\Users\melde_000\Documents\Embarcadero\Studio\Projects\ShowSplashscreenLeaderboard.dproj=C:\Users\melde_000\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/04/22 17:56:26.000.826,C:\Users\melde_000\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\melde_000\Documents\Embarcadero\Studio\Projects\SplashScreenModule.dproj</Transaction>
+    <Transaction>2016/04/22 18:03:34.000.452,C:\Users\melde_000\Documents\Embarcadero\Studio\Projects\Unit2.fmx=C:\Users\melde_000\Desktop\Unit2.fmx</Transaction>
+    <Transaction>2016/04/22 18:03:34.000.452,C:\Users\melde_000\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\melde_000\Desktop\Unit2.pas</Transaction>
+    <Transaction>2016/04/22 18:03:46.000.693,C:\Users\melde_000\Documents\Embarcadero\Studio\Projects\SplashScreenModule.dproj=C:\Users\melde_000\Desktop\SplashScreenModule.dproj</Transaction>
+    <Transaction>2016/05/04 01:07:46.210,Z:\projects\Leaderboard\splashScreen Module\LeaderBoard.dproj=Z:\projects\Leaderboard\splashScreen Module\SplashScreenModule.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="0ce408ee"/>
+	</ActiveMobileDevice>
+</BorlandProject>

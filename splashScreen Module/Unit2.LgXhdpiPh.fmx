@@ -1,0 +1,17 @@
+inherited Form2_LgXhdpiPh: TForm2_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited LabelTitle: TLabel
+    Position.X = 104.000000000000000000
+    Position.Y = 48.000000000000000000
+  end
+  inherited Button1: TButton
+    Position.X = 112.000000000000000000
+    Position.Y = 136.000000000000000000
+  end
+  inherited Label1: TLabel
+    Position.X = 24.000000000000000000
+    Position.Y = 240.000000000000000000
+  end
+end

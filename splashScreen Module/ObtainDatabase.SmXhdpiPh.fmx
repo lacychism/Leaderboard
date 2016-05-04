@@ -1,0 +1,9 @@
+inherited Form1_SmXhdpiPh: TForm1_SmXhdpiPh
+  ClientHeight = 375
+  ClientWidth = 250
+  DesignerMasterStyle = 3
+  inherited AniIndicator1: TAniIndicator
+    Position.X = 88.000000000000000000
+    Position.Y = 104.000000000000000000
+  end
+end
